@@ -7,16 +7,23 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+Hi my name is Daniel (he/him)! Ive been playing games for as long as I can remember. Early days, I played a ton of Minecraft, but these days I play more rougelikes whenever I find the time. Some of my favorite games are Incryption, Enter the Gungeon, and Risk of Rain 2. I also play some comp shooters like Overwatch sometimes. I don't have experience with game development but I have been coding for the last 3 years so I have a decent amount of C++, Java, and HTML experience. I am a CS major hoping to declare GDIM as a double major and I would love to create a Rougelike type game.
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
+    - [I am trying to declare GDIM as a double major] Game Design & Interactive Media
+    - [I am a CS Major] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+I just hope to begin my journey of learning how to develop a game wiht a basic understanding of Unity
+
 4. What, if anything, are you nervous about for this class?
+
+Not nervous about anything, just excited!
 
 ## Prior Experience
 
@@ -26,9 +33,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+C++, Java, HTML, and a LITTLE but of Swift
+
 2. Game development (any engine)
 
+N/A
+
 3. Unity
+
+N/A
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +53,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+N/A
 
 2. Scope management
+Understanding what parts of a function are accessible by certain parts
 
 3. Iteration
+The repetition of a process (usually used to find increasingly accurate results)
 
 4. Object-Oriented programming
+A style of programing that is based on the use of ojects and functions that allow those object to communicate
 
 5. Model-View-Controller architecture
+N/A
 
 ## Complete!
 
